@@ -1,0 +1,6 @@
+# dune build
+# OCAMLPARAM: unset
+# Workspace root: /home/madalina/JaneStreet/ubuntu/snake
+$ /usr/bin/nproc > /tmp/dune1a2641.output 2> /dev/null
+# Auto-detected concurrency: 8
+# disable binary cache
